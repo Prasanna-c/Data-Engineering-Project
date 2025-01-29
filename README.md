@@ -1,9 +1,12 @@
 **Complete End To End Data Engineering Project - Snowflake**
+
+
 An end-to-end data engineering project using Snowflake typically involves fetching data from the source destination through an API or manually uploading the data files to the Snowflake staging, cleaning and preprocessing the unstructured data, and then ingesting it into raw tables and final usable tables.
 This article is the one-stop place to understand the process from ingesting unstructured data into the snowflake staging location, to having a layered data architecture by de-duplicating, cleansing, and flattening JSON data to have analytics-ready data tables.
 Source data and scripts can be found in the GitHub repository Data-Engineering-Project, you can clone the repository or download the resource files.
 
 **💠Technical Pre-requisites:**
+
 Below are the pre-requisites required to complete this end-to-end Data Engineering project Snowflake
 🔹Snowflake Free Trial Edition:
 🔹Text Editor:
