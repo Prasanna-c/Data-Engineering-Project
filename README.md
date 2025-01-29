@@ -9,18 +9,23 @@ Source data and scripts can be found in the GitHub repository Data-Engineering-P
 
 Below are the pre-requisites required to complete this end-to-end Data Engineering project Snowflake
 🔹Snowflake Free Trial Edition:
+
 🔹Text Editor:
 VS Code or Equivalent
+
 🔹JSON File Visualizer: (Optional)
 Any free tool available on the internet.
+
 🔹Data Loading (CSV or JSON):
 Snowsight data loading feature.
+
 🔹Realtime JSON Data Structure:
 Govt free data
+
 🔹Data Source Consumption using API:
 GitHub action
 
 
 **⏩Business Use Case :**
-In this project, we will be looking into the Indian air quality data available here.
+In this project, we will look into the Indian air quality data available here.
 In the initial section, we will be ingesting the CSV data file that is already downloaded and available here, In the later part of the blog we will see how to consume the data through the API.
